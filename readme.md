@@ -1,0 +1,1 @@
+## This repository serves as my optimal test repository for TypeScript projects.
